@@ -13,8 +13,6 @@ Welcome to the repository for the Fully Responsive Portfolio Website project! Th
   - [About Section](#about-section)
   - [Qualification](#qualification)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
